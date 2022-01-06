@@ -1,0 +1,97 @@
+# WhatATheme
+markdown: kramdown
+
+# URL of the Site
+url: ''
+# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
+baseurl: 
+
+# Title of the Site
+title: Will Rossen
+# Description of the Site
+description: Full Stack Web Developer
+# URL of Image of the Site
+site-image: /WhatATheme/assets/images/meta.jpg
+# Keywords of the Site
+site-keywords: Site, Template, Theme
+# URL for the Image of custom Favicon
+favicon-url: 
+
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: wor101@gmail.com
+facebook_username: will.rossen
+twitter_username: wor101
+instagram_username: wor1o1
+linkedin_username: william-rossen-1ab5a320
+github_username:  wor101
+#youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+#reddit_username: /
+#behance_username: /
+#dribbble_username: /
+#spotify_username: /
+
+# Google Analytics
+#google-analytics: UA-163806439-1
+
+# Disqus
+disqus-shortname: wor101
+
+# Name of the Author
+author-name: Will Rossen
+# URL for the Image of the Author
+author-image: https://scontent-ort2-2.xx.fbcdn.net/v/t1.6435-9/91185528_10158238941626763_6750453180624011264_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=lfHlBu5tnPEAX9aRzi_&_nc_ht=scontent-ort2-2.xx&oh=00_AT9EXQMofiqVBT-lVcCj3ftBB2a_gYcePPm5IjvkY8QJIw&oe=61FACDAA
+# 60 Words About the Author
+author-about: A Launch School Core Curriculum graduate and current Capstone student, eagerly preparing for a career as a full stack developer. 
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: https://github.com/wor101
+
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+plugins:
+  - jekyll-admin
+  - jekyll-feed
+
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
