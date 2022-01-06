@@ -7,18 +7,18 @@ url: "https://www.willrossen.com" #https://wor101.github.io
 #baseurl: 
 
 # Title of the Site
-title: Will Rossen
+title: Will O Rossen
 # Description of the Site
 description: Full Stack Web Developer
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: # /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /WhatATheme/assets/images/mackinaw_sunset_1.jpg
+heroimage: /assets/images/mackinaw_sunset_1.jpg
 # https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
