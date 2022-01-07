@@ -5,5 +5,5 @@
 
 - name: NPC Tracker
   image: /assets/images/dungeons-and-dragons-npc-tracker.jpg
-  link: https://wor101-npc-tracker.herokuapp.com/
+  link: /npc-tracker
   description: Sinatra app for managing character interactions in RPGs. A simple CRUD app using a PostgreSQL database to manage interactions between characters (non-player characters & player characters).

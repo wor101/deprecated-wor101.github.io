@@ -12,15 +12,15 @@ Skill and trader class data is stored as a YAML file for easy expansion in the f
 
 All data is stored in the users cookie and will be erased upon deletion.
 
-Developed and Tested With:
+## Developed and Tested With:
 * Ruby
 * Sinatra
 * Minitest
 
-Deployed on Heroku:
-[wor101-corespace.herokuapp.com](https://wor101-corespace.herokuapp.com){:target="_blank"}
+## Deployed on Heroku:
+[Core Space Game Aid](https://wor101-corespace.herokuapp.com){:target="_blank"}
 
 
-Github:
+## Github:
 [github.com/wor101/corespace](https://github.com/wor101/corespace){:target="_blank"}
 
