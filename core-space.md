@@ -1,6 +1,6 @@
 ---
 title: Core Space Game Aid
-layout: page
+layout: project_page
 ---
 
 # Overview:
@@ -18,9 +18,9 @@ Developed and Tested With:
 * Minitest
 
 Deployed on Heroku:
-[wor101-corespace.herokuapp.com](https://wor101-corespace.herokuapp.com)
+[wor101-corespace.herokuapp.com](https://wor101-corespace.herokuapp.com){:target="_blank"}
 
 
 Github:
-[github.com/wor101/corespace](https://github.com/wor101/corespace)
+[github.com/wor101/corespace](https://github.com/wor101/corespace){:target="_blank"}
 
