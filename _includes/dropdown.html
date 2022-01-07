@@ -3,12 +3,12 @@
         MORE
     </a>
     <div class="navbar-dropdown has-background-black is-left">
-        <a href="/projects"
-            class="navbar-item has-text-grey-light {% if page.url == '/projects' | absolute_url  %}is-active{% endif %}">
+        <a href="/project"
+            class="navbar-item has-text-grey-light {% if page.url == '/project' | absolute_url  %}is-active{% endif %}">
             Projects
         </a>
         {% for sitepage in site.html_pages %}
-        {% unless sitepage.url == '/' or sitepage.url == '/404'  or sitepage.url == '/blog' %}
+        {% unless sitepage.url == '/' or sitepage.url == '/404'  or sitepage.url == '/blog' or sitepage.url == '/project' %}
         <a href="{{sitepage.url | absolute_url}}"
             class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url  %}is-active{% endif %}">
             {{sitepage.title}}
