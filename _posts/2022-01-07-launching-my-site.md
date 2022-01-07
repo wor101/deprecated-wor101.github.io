@@ -1,7 +1,7 @@
 ---
 title: Launching into a New Year
 layout: post
-post-image: /assets/images/snow_january_01_07_22.jpg
+post-image: /assets/images/snowy_january_01_07_22.jpg
 description: Preparing for Capstone and launching my personal site.
 tags:
 - capstone
