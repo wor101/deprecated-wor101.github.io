@@ -18,7 +18,9 @@ Developed and Tested With:
 * Minitest
 
 Deployed on Heroku:
-https://wor101-corespace.herokuapp.com
+[wor101-corespace.herokuapp.com](https://wor101-corespace.herokuapp.com)
+
 
 Github:
-https://github.com/wor101/corespace
+[github.com/wor101/corespace](https://github.com/wor101/corespace)
+
